@@ -134,15 +134,19 @@ body {
     height: 100vh;
     padding: 1rem 2rem;
   }
+
   .container .title h1 {
     font-size: 2rem;
   }
+
   .container .list tr th {
     font-size: 0.5rem;
   }
+
   .container .list tr td {
     font-size: 0.5rem;
   }
+
   .container .list {
     width: 300px;
   }
